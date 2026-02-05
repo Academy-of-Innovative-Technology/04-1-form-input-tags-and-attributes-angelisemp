@@ -22,6 +22,20 @@ footer a {
   margin: 0 10px; /* Space between links */
 }
 
+header {
+  background-color: rgba(0,128,0, 0.6);
+  color: white; 
+  padding: 20px; 
+  text-align: center; 
+  font-size: 14px;
+}
+
+header a {
+  color: #1abc9c;
+  text-decoration: none; /* Remove underlines from links */
+  margin: 0 10px; /* Space between links */
+}
+
 
 .form{
     width: 50%;
